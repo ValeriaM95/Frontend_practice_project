@@ -4,7 +4,7 @@ Responsive multipage website.
 
 Technologies used: HTML, CSS, JS
 
-Check the page: https://valeriam95.github.io/Frontend_practice_project/
+Check the website: https://valeriam95.github.io/Frontend_practice_project/
 
 A few exampleas of UI
 
